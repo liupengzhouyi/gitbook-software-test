@@ -7,4 +7,5 @@
   * [静态测试](ruan-jian-ce-shi-si-wei/jing-tai-ce-shi.md)
   * [动态测试](ruan-jian-ce-shi-si-wei/dong-tai-ce-shi.md)
 * [不同层次的测试](bu-tong-ceng-ci-de-ce-shi.md)
+* [不同类型的软件测试](bu-tong-lei-xing-de-ruan-jian-ce-shi.md)
 
