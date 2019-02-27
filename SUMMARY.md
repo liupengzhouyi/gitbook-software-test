@@ -8,4 +8,7 @@
   * [动态测试](ruan-jian-ce-shi-si-wei/dong-tai-ce-shi.md)
 * [不同层次的测试](bu-tong-ceng-ci-de-ce-shi.md)
 * [不同类型的软件测试](bu-tong-lei-xing-de-ruan-jian-ce-shi.md)
+* [软件测试的基本活动](ruan-jian-ce-shi-de-ji-ben-huo-dong.md)
+* [传统的软件测试的测试过程](chuan-tong-de-ruan-jian-ce-shi-de-ce-shi-guo-cheng.md)
+* [敏捷测试过程](min-jie-ce-shi-guo-cheng.md)
 
