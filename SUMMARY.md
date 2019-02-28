@@ -11,4 +11,6 @@
 * [软件测试的基本活动](ruan-jian-ce-shi-de-ji-ben-huo-dong.md)
 * [传统的软件测试的测试过程](chuan-tong-de-ruan-jian-ce-shi-de-ce-shi-guo-cheng.md)
 * [敏捷测试过程](min-jie-ce-shi-guo-cheng.md)
+* [软件测试--实战](ruan-jian-ce-8bd5-shi-zhan.md)
+  * [IDEA-Java-测试](ruan-jian-ce-8bd5-shi-zhan/idea-javace-shi.md)
 
