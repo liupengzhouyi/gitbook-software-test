@@ -14,4 +14,5 @@
 * [软件测试--实战](ruan-jian-ce-8bd5-shi-zhan.md)
   * [IDEA-Java-测试](ruan-jian-ce-8bd5-shi-zhan/idea-javace-shi.md)
 * [需求和设计评审](xu-qiu-he-she-ji-ping-shen.md)
+* [我的思考](wo-de-si-kao.md)
 
